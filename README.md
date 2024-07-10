@@ -20,10 +20,15 @@ During this internship, I gained practical knowledge and experience in the follo
 
 ## Projects and Assignments
 
-### Project 1: Automatic Car Parking System
+### Project: Automatic Car Parking System
 - **Objective:** Develop an automatic car parking system to optimize space utilization, enhance operational efficiency, and improve user convenience.
 - **Description:** Designed and implemented a PLC-based system for managing car parking, including sensors for vehicle detection and actuators for vehicle movement.
 - **Tools and Technologies Used:** CODESYS, Proximity Sensors, Ultrasonic Sensors, Infrared Sensors, Motors, Conveyor Belts, Hydraulic Systems, Pneumatic Systems, HMI (Human-Machine Interface).
+
+![1](https://github.com/mohanakrishnan1729/SCoE-MIT_2Weeks_Internship_Learning/blob/09e299fccaed20452d06d6339dd214cfe4a8ac37/Project_Work/Screenshots/Screenshot%202024-07-04%20195135.png)
+![2](https://github.com/mohanakrishnan1729/SCoE-MIT_2Weeks_Internship_Learning/blob/09e299fccaed20452d06d6339dd214cfe4a8ac37/Project_Work/Screenshots/Screenshot%202024-07-04%20195321.png)
+![3](https://github.com/mohanakrishnan1729/SCoE-MIT_2Weeks_Internship_Learning/blob/09e299fccaed20452d06d6339dd214cfe4a8ac37/Project_Work/Screenshots/Screenshot%202024-07-04%20195345.png)
+![4](https://github.com/mohanakrishnan1729/SCoE-MIT_2Weeks_Internship_Learning/blob/09e299fccaed20452d06d6339dd214cfe4a8ac37/Project_Work/Screenshots/Screenshot%202024-07-04%20114132.png)
 
 ## Certificate
 
@@ -35,6 +40,6 @@ This internship has significantly enhanced my understanding of PLC systems and t
 ## Contact
 - **Name:** Mohanakrishnan E
 - **Email:** mohanakrishnan389@gmail.com
-- **LinkedIn:** mohanakrishnan1729
+- **LinkedIn:** [mohanakrishnan1729](https://www.linkedin.com/in/mohanakrishnan1729/)
 
 
