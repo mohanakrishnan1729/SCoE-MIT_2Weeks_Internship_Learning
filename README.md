@@ -27,7 +27,7 @@ During this internship, I gained practical knowledge and experience in the follo
 
 ## Certificate
 
-![Internship Certificate]()
+![Internship Certificate](Intern_Certificate/mit_internship.jpeg)
 
 ## Conclusion
 This internship has significantly enhanced my understanding of PLC systems and their applications in automation and control engineering. I am grateful to the Siemens Centre of Excellence and the Department of Instrumentation Engineering at MIT Campus, Anna University, for providing this valuable learning opportunity.
